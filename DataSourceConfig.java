@@ -1,4 +1,4 @@
-package com.bbby.eom.batch.vendormaster.config;
+package com.umesh.config;
 
 import java.util.HashMap;
 
